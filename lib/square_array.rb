@@ -1,5 +1,5 @@
 def square_array(array)
-  counter = 0;
+  counter = 0
   new_array = []
   while counter < array.length do
     entry = array[counter] * array[counter]
